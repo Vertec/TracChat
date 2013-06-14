@@ -1,0 +1,3 @@
+[submodule "lib/ircd"]
+	path = lib/ircd
+	url = git@github.com:abesto/python-ircd.git

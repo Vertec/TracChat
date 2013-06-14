@@ -1,0 +1,3 @@
+Vertec IRC Chat
+
+Currently supported commands: NICK, USER, JOIN, PART, PRIVMSG, PING, WHO, TOPIC, QUIT
